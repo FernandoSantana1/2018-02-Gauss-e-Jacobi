@@ -1,0 +1,10 @@
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\bin\Debug\Gauss e Jacobi.exe.config
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\bin\Debug\Gauss e Jacobi.exe
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\bin\Debug\Gauss e Jacobi.pdb
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\obj\Debug\Gauss e Jacobi.csprojAssemblyReference.cache
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\obj\Debug\Gauss_e_Jacobi.Form1.resources
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\obj\Debug\Gauss_e_Jacobi.Properties.Resources.resources
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\obj\Debug\Gauss e Jacobi.csproj.GenerateResource.cache
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\obj\Debug\Gauss e Jacobi.csproj.CoreCompileInputs.cache
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\obj\Debug\Gauss e Jacobi.exe
+C:\Users\fernando\OneDrive\Visual Studio\Gauss e Jacobi\Gauss e Jacobi\obj\Debug\Gauss e Jacobi.pdb
